@@ -1,0 +1,6 @@
+.idea
+task/Include
+task/Lib
+task/Scripts
+task/pyvenv.cfg
+task/reqirements.txt
